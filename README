@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3443
+
+This is a tiny plugin to enable users of vim within tmux on Mac OS X to paste from vim into the system clipboard. It provides a single command, :PBCopy, which puts the content of the last register into the Mac OS X pasteboard.
+
+Full details of this plugin can be found at its github page, https://github.com/mortice/pbcopy.vim
